@@ -20,7 +20,10 @@ h1 {
 h2{
 font-family: sans-serif;
  background-color: white;
- color: red
+ color: red;
+ margin-right: 100px;
+
+
 }
 li{
   font-family: sans-serif;
@@ -33,5 +36,7 @@ li{
   h2{
     font-family:"Arial", monospace;
     font-size: 55px;
-  }
+    margin-left: 20px;
+    margin-right: 20px;
+      }
 body{flex-wrap; wrap;
