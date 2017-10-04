@@ -1,0 +1,74 @@
+body{
+  background-color: black;
+  line-height: 1.4;
+}
+
+.name{
+  display: flex;
+  max-width: 70%;
+  align-content: center;
+  color: white;
+  font-family: "source sans pro", "helvetica", sans-serif;
+  padding-top: 0px;
+  margin-top: 0%;
+}
+
+.image{
+  display: block;
+  max-width: 70%;
+
+}
+
+h2{
+  font-size: 200px;
+  max-width: 70%;
+  align-content: center;
+  max-width: 800px;
+  color: white;
+  font-family: "source sans pro", "helvetica", sans-serif;
+  margin-top: 10%;
+}
+
+.h3{
+  font-size: 50px;
+  display: flex;
+  max-width: 50%;
+  align-content: center;
+  color: white;
+  font-family: "source sans pro", "helvetica", sans-serif;
+}
+
+h3{
+  font-size: 50px;
+  display: flex;
+  max-width: 50%;
+  align-content: center;
+  color: white;
+  font-family: "source sans pro", "helvetica", sans-serif;
+}
+
+.p{
+  font-size: 70px;
+  display: flex;
+  max-width: 50%;
+  align-content: center;
+  color: white;
+  font-family: "source sans pro", "helvetica", sans-serif;
+  column-width: auto;
+  max-width: 600px;
+margin-right: 20px;
+}
+
+p{
+  column-width: auto;
+  color: white;
+  font-family: "source sans pro", "helvetica", sans-serif;
+  font-size: 15px;
+  text-align: left;
+  font-weight: 50;
+  height: auto;
+  text-align: left;
+  word-spacing: normal;
+  max-width: 400px;
+  margin-right: 20px;
+}
